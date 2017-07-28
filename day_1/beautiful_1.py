@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 import html
 
 if __name__ == '__main__':
-    #download_url = 'http://www.siluke.org/book/81788/26892699.html'  #这个网站可以爬
-    download_url = 'http://www.biqukan.com/1_1094/5403177.html'
+    download_url = 'http://www.siluke.org/book/81788/26892699.html'  #这个网站可以爬
+    #download_url = 'http://www.biqukan.com/1_1094/5403177.html'
     head = {}
 
     # 设置代理IP
